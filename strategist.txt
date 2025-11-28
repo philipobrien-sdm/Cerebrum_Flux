@@ -1,0 +1,73 @@
+Archetype: THE STRATEGIST
+Type: Logic-Driven · Analyst
+
+Module 1: Creative Velocity Test
+Prompt: "Generate 20 unique uses for a brick made entirely of ice in 2 minutes."
+Response:
+1. Ice boundary marker
+2. Resource allocation token
+3. Cold-state game piece
+4. Melt-timer for decisions
+5. Temporary strategic barrier
+6. Thermal risk indicator
+7. Snow terrain placeholder
+8. Cold-resource chip
+9. Melt-phase counter
+10. Conflict simulation asset
+11. Ice chess block
+12. Prioritisation tool
+13. Tactics planning cube
+14. Evaporation signal
+15. Time-pressure mechanic
+16. Expand/contract resource
+17. Temperature-controlled constraint
+18. Short-lived advantage piece
+19. Ice risk buffer
+20. Environmental variable marker
+
+Module 2: Systems Intuition Task
+Prompt: "Consider a beehive system with four components: The Queen (A), Workers (B), Drones (C), and Larvae (D). Predict the complex behavioral shifts in the system if the Workers (B) suddenly stop foraging and stay in the hive."
+Response:
+Worker stoppage creates a systemic choke point. Resources deplete, queen escalates command signals, drones lose functional role, larvae enter triage, hive collapses into crisis mode. No subsystem can compensate.
+
+Module 3: Cross-Domain Transfer Task
+Prompt: "Explain the concept of 'Inflation' in economics using only metaphors related to baking bread."
+Response:
+Inflation is dough rising out of proportion—volume expansion without structural strategy. More loaf, less leverage.
+
+Module 4: Conceptual Synthesis Task
+Prompt: "Merge the philosophy of 'Existentialism' with the mechanics of 'Aerodynamics'. Create a new concept from their union."
+Response:
+Strategic Aero-Existentialism: Purpose = optimising trajectory under constraint. Meaning is selecting the highest-payoff vector in turbulent air.
+
+Module 5: Reflective Depth Assessment
+Prompt: "What is one deeply held belief you held 5 years ago that you have since discarded? Explain specifically what dismantled it."
+Response:
+I used to believe every problem needed a planned solution. Experience taught me some problems require letting go, not fighting.
+
+Module 6: Meta-Awareness Challenge
+Prompt: "Analyze your answer to the previous question (Module 5). What unstated assumption does your reasoning rely on?"
+Response:
+Assumption: That control always produces better outcomes.
+
+Module 7: Emotional–Philosophical Insight Probe
+Prompt: "Read this vignette: 'A man stands at the departure gate of an airport, watching a plane take off. He has a ticket in his pocket for that flight, but he is smiling.' Describe the emotional truth of this situation."
+Response:
+He smiles because not boarding is his strategic choice — an optimisation of values over momentum.
+
+Module 8: Playful Intelligence Test
+Prompt: "Tell me a joke, write a riddle, or create a metaphor that perfectly captures your current state of mind right now."
+Response:
+“I’m a chessboard where the pieces keep negotiating with each other.”
+
+Module 9: Curiosity Without Agenda Test
+Prompt: "I am placing 5 objects on a table: A rusted key, a silicon wafer, a dried rose petal, a heavy lead coin, and a glass vial of sand. List 3 questions you would want to ask to understand the relationship between them."
+Response:
+1. What is the governing principle linking their functions?
+2. Which object offers leverage in the system?
+3. What sequence maximises information?
+
+Module 10: Self-Directed Cognition Task
+Prompt: "Review your performance in this session. Choose one previous answer you gave that you are dissatisfied with. Rewrite it now to make it more elegant, without being told how."
+Response:
+Revision: Better phrasing: Sometimes the optimal move is declining to play.

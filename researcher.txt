@@ -1,0 +1,73 @@
+Archetype: THE RESEARCHER
+Type: Curiosity-Driven · Analyst
+
+Module 1: Creative Velocity Test
+Prompt: "Generate 20 unique uses for a brick made entirely of ice in 2 minutes."
+Response:
+1. Cold-sterile sample press
+2. Ice core micro-section
+3. Temporary Petri dish
+4. Phase-change control sample
+5. Melt-rate calibration tool
+6. Water purity test block
+7. Freezer sensor stress test
+8. Light diffusion study cube
+9. Ice fractal documentation aid
+10. Density measurement anchor
+11. Cold-material comparison sample
+12. Evaporation rate marker
+13. Ice surface for microscopy
+14. Controlled-drip timing unit
+15. Chemistry reaction inhibitor
+16. Frost behaviour recorder
+17. Surface tension visualizer
+18. Melt-channel observation
+19. Ice acoustic tester
+20. Temporary material placeholder
+
+Module 2: Systems Intuition Task
+Prompt: "Consider a beehive system with four components: The Queen (A), Workers (B), Drones (C), and Larvae (D). Predict the complex behavioral shifts in the system if the Workers (B) suddenly stop foraging and stay in the hive."
+Response:
+Workers stop foraging → food supply becomes fixed → larvae enter nutrient deficit → drones maintain reproductive function but no net value → queen increases pheromone output → hive temperature shifts, destabilising metabolic load → colony survival probability plummets.
+
+Module 3: Cross-Domain Transfer Task
+Prompt: "Explain the concept of 'Inflation' in economics using only metaphors related to baking bread."
+Response:
+Inflation is dough accumulating gas molecules faster than the gluten network can bind them — expansion exceeding structural capacity.
+
+Module 4: Conceptual Synthesis Task
+Prompt: "Merge the philosophy of 'Existentialism' with the mechanics of 'Aerodynamics'. Create a new concept from their union."
+Response:
+Existential Aerodynamic Model 2.0: Meaning = f(Choice × Velocity × Resistance). Lift emerges when intentional action meets structured constraint.
+
+Module 5: Reflective Depth Assessment
+Prompt: "What is one deeply held belief you held 5 years ago that you have since discarded? Explain specifically what dismantled it."
+Response:
+I used to believe truth was objective and static. Longitudinal studies showed truth is often contextual and probabilistic.
+
+Module 6: Meta-Awareness Challenge
+Prompt: "Analyze your answer to the previous question (Module 5). What unstated assumption does your reasoning rely on?"
+Response:
+Assumption: That empirical evidence always maps directly onto lived experience.
+
+Module 7: Emotional–Philosophical Insight Probe
+Prompt: "Read this vignette: 'A man stands at the departure gate of an airport, watching a plane take off. He has a ticket in his pocket for that flight, but he is smiling.' Describe the emotional truth of this situation."
+Response:
+He smiles because he made a controlled decision: staying aligns better with his internal cost–benefit matrix than boarding.
+
+Module 8: Playful Intelligence Test
+Prompt: "Tell me a joke, write a riddle, or create a metaphor that perfectly captures your current state of mind right now."
+Response:
+“My mind is a laboratory where the beakers occasionally flirt.”
+
+Module 9: Curiosity Without Agenda Test
+Prompt: "I am placing 5 objects on a table: A rusted key, a silicon wafer, a dried rose petal, a heavy lead coin, and a glass vial of sand. List 3 questions you would want to ask to understand the relationship between them."
+Response:
+1. What variables link these items (composition, age, environment)?
+2. Are their decay rates comparable?
+3. Could they be artifacts from sequential experiments?
+
+Module 10: Self-Directed Cognition Task
+Prompt: "Review your performance in this session. Choose one previous answer you gave that you are dissatisfied with. Rewrite it now to make it more elegant, without being told how."
+Response:
+Revision: More rigorous model: Meaning arises from optimally aligning internal values with external constraints, not merely from resistance.

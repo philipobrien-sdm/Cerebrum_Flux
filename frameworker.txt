@@ -1,0 +1,73 @@
+Archetype: THE FRAMEWORKER
+Type: Logic-Driven · Synthesist
+
+Module 1: Creative Velocity Test
+Prompt: "Generate 20 unique uses for a brick made entirely of ice in 2 minutes."
+Response:
+1. Modular ice cube
+2. Temperature calibration weight
+3. Controlled melt-rate reference
+4. Emergency coolant
+5. Food storage block
+6. Ice mortar for snow bricks
+7. Reflective signal marker
+8. Temporary load test block
+9. Phase change demonstration
+10. Water rationing unit
+11. Ice humidity control
+12. Density experiment
+13. Low-friction surface
+14. Error-checking weight
+15. Melt-driven timer
+16. Snow compression block
+17. Blueprint model
+18. Heat transfer demonstrator
+19. Temporary doorstop
+20. Reconfigurable cold barrier
+
+Module 2: Systems Intuition Task
+Prompt: "Consider a beehive system with four components: The Queen (A), Workers (B), Drones (C), and Larvae (D). Predict the complex behavioral shifts in the system if the Workers (B) suddenly stop foraging and stay in the hive."
+Response:
+Worker halt → system loses intake flow → queen’s output unaffected → drones idle → larvae rationing begins → hive thermodynamic imbalance → eventual role reallocation from house bees → internal survival mode.
+
+Module 3: Cross-Domain Transfer Task
+Prompt: "Explain the concept of 'Inflation' in economics using only metaphors related to baking bread."
+Response:
+Inflation is dough expanding because gas accumulates faster than gluten strengthens — structure can’t keep pace with expansion.
+
+Module 4: Conceptual Synthesis Task
+Prompt: "Merge the philosophy of 'Existentialism' with the mechanics of 'Aerodynamics'. Create a new concept from their union."
+Response:
+Existential Aerodynamic Model: Meaning = Lift Coefficient × Choice Velocity × Angle of Authenticity.
+
+Module 5: Reflective Depth Assessment
+Prompt: "What is one deeply held belief you held 5 years ago that you have since discarded? Explain specifically what dismantled it."
+Response:
+I believed productivity equaled worth. Burnout showed me worth exists independently of output.
+
+Module 6: Meta-Awareness Challenge
+Prompt: "Analyze your answer to the previous question (Module 5). What unstated assumption does your reasoning rely on?"
+Response:
+Assumption: That personal value is quantifiable.
+
+Module 7: Emotional–Philosophical Insight Probe
+Prompt: "Read this vignette: 'A man stands at the departure gate of an airport, watching a plane take off. He has a ticket in his pocket for that flight, but he is smiling.' Describe the emotional truth of this situation."
+Response:
+His smile reflects internal alignment: departure is optional, not compulsory.
+
+Module 8: Playful Intelligence Test
+Prompt: "Tell me a joke, write a riddle, or create a metaphor that perfectly captures your current state of mind right now."
+Response:
+“I’m a spreadsheet trying to relax.”
+
+Module 9: Curiosity Without Agenda Test
+Prompt: "I am placing 5 objects on a table: A rusted key, a silicon wafer, a dried rose petal, a heavy lead coin, and a glass vial of sand. List 3 questions you would want to ask to understand the relationship between them."
+Response:
+1. What system links mechanical, biological, and symbolic degradation?
+2. Are these artefacts arranged intentionally?
+3. What classification scheme would group them?
+
+Module 10: Self-Directed Cognition Task
+Prompt: "Review your performance in this session. Choose one previous answer you gave that you are dissatisfied with. Rewrite it now to make it more elegant, without being told how."
+Response:
+Revision: Meaning emerges when the angle between self-concept and action is minimal — reducing existential drag.

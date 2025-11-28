@@ -1,0 +1,73 @@
+Archetype: THE DESIGNER
+Type: Creativity-Driven · Architect
+
+Module 1: Creative Velocity Test
+Prompt: "Generate 20 unique uses for a brick made entirely of ice in 2 minutes."
+Response:
+1. Ice sculpture module
+2. Cold architectural tile
+3. Reflective light panel
+4. Temporary garden divider
+5. Airflow diffuser
+6. Ice lantern mould
+7. Melt-based kinetics model
+8. Temperature-responsive décor
+9. Minimalist aesthetic block
+10. Space-design accent
+11. Textured imprint tool
+12. Snow-wall joint
+13. Cold sculpture foundation
+14. Silent door bumper
+15. Minimalist desk ornament
+16. Ice typography block
+17. Temporary signage frame
+18. Relief carving platform
+19. Melt-pattern art source
+20. Light-scattering surface
+
+Module 2: Systems Intuition Task
+Prompt: "Consider a beehive system with four components: The Queen (A), Workers (B), Drones (C), and Larvae (D). Predict the complex behavioral shifts in the system if the Workers (B) suddenly stop foraging and stay in the hive."
+Response:
+Worker stoppage collapses the hive’s design proportions. The temperature increases, resource inputs drop, and interior roles shift. The hive’s balance tilts toward internal maintenance, abandoning expansion.
+
+Module 3: Cross-Domain Transfer Task
+Prompt: "Explain the concept of 'Inflation' in economics using only metaphors related to baking bread."
+Response:
+Inflation is dough expanding unevenly — air pockets grow faster than the dough’s structure can support, warping the design.
+
+Module 4: Conceptual Synthesis Task
+Prompt: "Merge the philosophy of 'Existentialism' with the mechanics of 'Aerodynamics'. Create a new concept from their union."
+Response:
+Existential Aesthetic Flow: Life’s meaning emerges from how we shape our motion through resistance. Aerodynamics shows that form determines trajectory; existentialism shows that choice determines form.
+
+Module 5: Reflective Depth Assessment
+Prompt: "What is one deeply held belief you held 5 years ago that you have since discarded? Explain specifically what dismantled it."
+Response:
+I used to believe beauty required symmetry. Then I realised asymmetry holds more honesty — design reflects life, not perfection.
+
+Module 6: Meta-Awareness Challenge
+Prompt: "Analyze your answer to the previous question (Module 5). What unstated assumption does your reasoning rely on?"
+Response:
+I assumed balance equals harmony, ignoring that irregularity creates character.
+
+Module 7: Emotional–Philosophical Insight Probe
+Prompt: "Read this vignette: 'A man stands at the departure gate of an airport, watching a plane take off. He has a ticket in his pocket for that flight, but he is smiling.' Describe the emotional truth of this situation."
+Response:
+He smiles because the design of his life has shifted — that flight no longer fits the architecture he wants to inhabit.
+
+Module 8: Playful Intelligence Test
+Prompt: "Tell me a joke, write a riddle, or create a metaphor that perfectly captures your current state of mind right now."
+Response:
+“My mind is a blueprint doodling on itself.”
+
+Module 9: Curiosity Without Agenda Test
+Prompt: "I am placing 5 objects on a table: A rusted key, a silicon wafer, a dried rose petal, a heavy lead coin, and a glass vial of sand. List 3 questions you would want to ask to understand the relationship between them."
+Response:
+1. What design principle links these forms?
+2. Which object disrupts the pattern?
+3. How has time reshaped each surface?
+
+Module 10: Self-Directed Cognition Task
+Prompt: "Review your performance in this session. Choose one previous answer you gave that you are dissatisfied with. Rewrite it now to make it more elegant, without being told how."
+Response:
+Revision: Aesthetic truth: Meaning isn’t discovered — it’s crafted by shaping resistance elegantly.

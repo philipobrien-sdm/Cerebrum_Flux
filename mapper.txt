@@ -1,0 +1,73 @@
+Archetype: THE MAPPER
+Type: Curiosity-Driven · Architect
+
+Module 1: Creative Velocity Test
+Prompt: "Generate 20 unique uses for a brick made entirely of ice in 2 minutes."
+Response:
+1. Melt-sequencing marker
+2. Temporary boundary marker
+3. Water-distribution grid tile
+4. Temperature milestone stone
+5. Pathfinding token in snow
+6. Ice compass base
+7. Melt-route experiment block
+8. Cold-region teaching prop
+9. Hydration waypoint indicator
+10. Thermal mapping sample
+11. Short-lived signpost
+12. Resource map anchor
+13. Field-grid calibration marker
+14. Exploratory breadcrumb
+15. Temporary coordinate node
+16. Wildlife tracking lure
+17. Ice topography model
+18. Short-use trail marker
+19. Weathering reference block
+20. Spatial measurement reference
+
+Module 2: Systems Intuition Task
+Prompt: "Consider a beehive system with four components: The Queen (A), Workers (B), Drones (C), and Larvae (D). Predict the complex behavioral shifts in the system if the Workers (B) suddenly stop foraging and stay in the hive."
+Response:
+If workers stop foraging: The hive’s intake node collapses. The queen's signal intensity rises, drones remain idle, larvae enter starvation triage, and workers shift roles inward. The system reorganises into survival mode: stability replaces expansion.
+
+Module 3: Cross-Domain Transfer Task
+Prompt: "Explain the concept of 'Inflation' in economics using only metaphors related to baking bread."
+Response:
+Inflation is like dough inflated with too much warm air: it expands beyond the structural grid the gluten provides. The “map” of bread stretches, but its density and substance diminish.
+
+Module 4: Conceptual Synthesis Task
+Prompt: "Merge the philosophy of 'Existentialism' with the mechanics of 'Aerodynamics'. Create a new concept from their union."
+Response:
+Existential Aeromap: Meaning is navigation: airflow is uncertainty, and the self must constantly adjust direction. Lift is achieved by mapping resistance into orientation.
+
+Module 5: Reflective Depth Assessment
+Prompt: "What is one deeply held belief you held 5 years ago that you have since discarded? Explain specifically what dismantled it."
+Response:
+I believed life required clear long-term planning. Eventually I realised maps are approximations — and reality demands flexible navigation.
+
+Module 6: Meta-Awareness Challenge
+Prompt: "Analyze your answer to the previous question (Module 5). What unstated assumption does your reasoning rely on?"
+Response:
+I assumed predictability is possible and preferable — which itself is an illusion we use to avoid uncertainty.
+
+Module 7: Emotional–Philosophical Insight Probe
+Prompt: "Read this vignette: 'A man stands at the departure gate of an airport, watching a plane take off. He has a ticket in his pocket for that flight, but he is smiling.' Describe the emotional truth of this situation."
+Response:
+He smiles because he has chosen a different path. The ticket is a map he no longer wants to follow.
+
+Module 8: Playful Intelligence Test
+Prompt: "Tell me a joke, write a riddle, or create a metaphor that perfectly captures your current state of mind right now."
+Response:
+“My mind is a compass that keeps discovering new norths.”
+
+Module 9: Curiosity Without Agenda Test
+Prompt: "I am placing 5 objects on a table: A rusted key, a silicon wafer, a dried rose petal, a heavy lead coin, and a glass vial of sand. List 3 questions you would want to ask to understand the relationship between them."
+Response:
+1. Is there a pattern to their materials?
+2. Do they map a timeline of decay?
+3. Are they connected through human intention or accident?
+
+Module 10: Self-Directed Cognition Task
+Prompt: "Review your performance in this session. Choose one previous answer you gave that you are dissatisfied with. Rewrite it now to make it more elegant, without being told how."
+Response:
+Revision: A clearer synthesis: Life’s map is always redrawn; meaning is an update, not a destination.

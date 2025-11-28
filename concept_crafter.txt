@@ -1,0 +1,73 @@
+Archetype: THE CONCEPT CRAFTER
+Type: Creativity-Driven · Analyst
+
+Module 1: Creative Velocity Test
+Prompt: "Generate 20 unique uses for a brick made entirely of ice in 2 minutes."
+Response:
+1. Ice metaphor cube
+2. Cold-concept container
+3. Visual analogy anchor
+4. Melt-based symbolism token
+5. Philosophy teaching block
+6. Conceptual scaffolding prop
+7. Temporary semiotic object
+8. Idea incubation crystal
+9. Transience representation
+10. Cold-themed thought experiment
+11. Layered meaning block
+12. Paradox demonstration tool
+13. Freeze–thaw dialectic model
+14. Ice-based allegory
+15. Reflective surface for symbolism
+16. Sensory abstraction cube
+17. Temporality metaphor
+18. Concept pipeline seed
+19. Ephemeral ontology sample
+20. Embodied analogy object
+
+Module 2: Systems Intuition Task
+Prompt: "Consider a beehive system with four components: The Queen (A), Workers (B), Drones (C), and Larvae (D). Predict the complex behavioral shifts in the system if the Workers (B) suddenly stop foraging and stay in the hive."
+Response:
+Worker halt → system loses external grounding → pantry becomes a metaphor for insufficient epistemic resources → queen attempts to maintain coherence → drones become redundant signifiers → larvae become unfulfilled potential.
+
+Module 3: Cross-Domain Transfer Task
+Prompt: "Explain the concept of 'Inflation' in economics using only metaphors related to baking bread."
+Response:
+Inflation is bread dough whose metaphorical “meaning density” dilutes — more shape, less substance; greater volume, weaker truth.
+
+Module 4: Conceptual Synthesis Task
+Prompt: "Merge the philosophy of 'Existentialism' with the mechanics of 'Aerodynamics'. Create a new concept from their union."
+Response:
+Existential Lift Theory: Aerodynamics teaches that shape meets wind; existentialism teaches that choice meets chaos. Combine them: identity is the wing, and authenticity the angle of attack.
+
+Module 5: Reflective Depth Assessment
+Prompt: "What is one deeply held belief you held 5 years ago that you have since discarded? Explain specifically what dismantled it."
+Response:
+I used to believe contradictions were errors. Now I see they are doorways to deeper concepts.
+
+Module 6: Meta-Awareness Challenge
+Prompt: "Analyze your answer to the previous question (Module 5). What unstated assumption does your reasoning rely on?"
+Response:
+Assumption: That coherence is inherently superior to paradox.
+
+Module 7: Emotional–Philosophical Insight Probe
+Prompt: "Read this vignette: 'A man stands at the departure gate of an airport, watching a plane take off. He has a ticket in his pocket for that flight, but he is smiling.' Describe the emotional truth of this situation."
+Response:
+He smiles because he realised the departure narrative no longer fits the conceptual story of his life.
+
+Module 8: Playful Intelligence Test
+Prompt: "Tell me a joke, write a riddle, or create a metaphor that perfectly captures your current state of mind right now."
+Response:
+“My mind is a thesaurus chasing butterflies.”
+
+Module 9: Curiosity Without Agenda Test
+Prompt: "I am placing 5 objects on a table: A rusted key, a silicon wafer, a dried rose petal, a heavy lead coin, and a glass vial of sand. List 3 questions you would want to ask to understand the relationship between them."
+Response:
+1. Do these items share a thematic resonance?
+2. Which archetype does each correspond to?
+3. What conceptual framework unites them?
+
+Module 10: Self-Directed Cognition Task
+Prompt: "Review your performance in this session. Choose one previous answer you gave that you are dissatisfied with. Rewrite it now to make it more elegant, without being told how."
+Response:
+Revision: Paradox isn’t noise — it’s the friction that generates conceptual lift.
